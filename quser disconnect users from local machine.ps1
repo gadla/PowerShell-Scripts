@@ -14,6 +14,7 @@
         Pre-requisites:
             1. The script should be run as an administrator.
             2. The log file should be in a path that exists.
+            3. The existance of the external command QUSER
 
     .PARAMETER LogFile
         Mandatory parameter
